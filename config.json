@@ -1886,6 +1886,18 @@
         "https://raw.githubusercontent.com/tim-hub/tiny-cn-blocklist-replenish/master/others.txt"],
       "pack": ["liteprivacy", "gambling"],
       "level": [0, 1]
+    },
+    {
+      "vname": "hufilter",
+      "group": "Privacy",
+      "subg": "",
+      "format": ["abp", "abp"],
+      "url": [
+        "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-abp.txt",
+        "https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-selfpromo.txt"
+      ],
+      "pack": ["extremeprivacy"],
+      "level": [0, 1]
     }
   ]
 }
